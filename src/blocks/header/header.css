@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    position: fixed;
+    align-items: center;
+    margin: 0 auto;
+    min-height: 72px;
+    width: 100%;
+    background-color: #fff;
+    flex-direction: row;
+    justify-content: center;
+}

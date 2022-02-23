@@ -1,0 +1,19 @@
+.header__button {
+    width: 148px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #0d4a75;
+    transition: .2s ease-in-out;
+    margin-left: 20px;
+}
+
+.header__button:hover {
+    color: #0d4a75;
+    background-color: #fff;
+    border: #0d4a75 solid 1.5px;
+    box-sizing: border-box;
+}

@@ -1,0 +1,25 @@
+.header__logo {
+  background-image: url(../../../images//full-logo.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 160px;
+  height: 45px;
+  transition: 0.8s ease;
+}
+
+.header__logo:hover {
+  opacity: 0.6;
+}
+
+@media screen and (max-width: 980px) {
+  .header__logo {
+    margin-left: 27px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .header__logo {
+    max-width: 103.74px;
+    max-height: 24.4px;
+  }
+}

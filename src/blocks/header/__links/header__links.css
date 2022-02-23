@@ -1,0 +1,8 @@
+.header__links {
+    gap: 30px;
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    align-items: center;
+    margin: 0;
+}

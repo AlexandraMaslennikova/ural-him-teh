@@ -1,0 +1,7 @@
+.lead {
+    display: flex;
+    width: 1100px;
+    height: 637px;
+    background-image: url(../../images/chim.jpg);
+    background-size: cover;
+}
