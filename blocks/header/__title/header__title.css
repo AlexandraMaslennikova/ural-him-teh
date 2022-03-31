@@ -1,0 +1,28 @@
+.header__title {
+  display: flex;
+  color: rgb(123, 187, 198);
+  width: 190px;
+  height: 1.8rem;
+  transition: 0.8s ease;
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+
+.header__title:hover {
+  opacity: .8;
+}
+
+@media screen and (max-width: 980px) {
+  .header__title {
+    margin-left: 27px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .header__title {
+    max-width: 103.74px;
+    max-height: 24.4px;
+  }
+}

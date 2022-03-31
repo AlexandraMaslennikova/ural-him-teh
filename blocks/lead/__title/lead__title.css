@@ -1,0 +1,11 @@
+.lead__title {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    width: 580px;
+    font-size: 46px;
+    font-weight: 500;
+    padding-top: 52px;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}

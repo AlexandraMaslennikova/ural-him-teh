@@ -1,0 +1,22 @@
+.lead__button {
+    width: 320px;
+    min-height: 3rem;
+    border-radius: 8px;
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: #fff;
+    transition: .2s ease-in-out;
+    margin-left: 20px;
+    text-transform: uppercase;
+    background-color: rgb(98, 159, 170);
+}
+
+.lead__button:hover {
+    background-color: rgb(123, 187, 198);
+}
