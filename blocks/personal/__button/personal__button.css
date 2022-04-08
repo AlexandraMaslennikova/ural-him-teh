@@ -1,0 +1,22 @@
+.personal__button {
+    width: 280px;
+    min-height: 3rem;
+    border-radius: 8px;
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-top: 60px;
+    margin-left: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: #fff;
+    transition: .2s ease-in-out;
+    text-transform: uppercase;
+    background-color: rgb(35, 138, 163);
+}
+
+.personal__button:hover {
+    background-color: rgb(123, 187, 198);
+}

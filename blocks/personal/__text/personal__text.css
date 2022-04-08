@@ -1,0 +1,9 @@
+.personal__text {
+    display: flex;
+    justify-content: flex-end;
+    width: calc(50%);
+    height: 600px;
+    margin: 0 auto;
+    padding-right: 85px;
+    padding-top: 35px;
+}

@@ -22,6 +22,19 @@
 @import url(../blocks/about/about.css);
 @import url(../blocks/about/__title/about__title.css);
 @import url(../blocks/about/__subtitle/about__subtitle.css);
+@import url(../blocks/about/__item/about__item.css);
+@import url(../blocks/about/__pluses/about__pluses.css);
+@import url(../blocks/about/__image/about__image.css);
+@import url(../blocks/about/__text/about__text.css);
+
+/*personal*/ 
+@import url(../blocks/personal/personal.css);
+@import url(../blocks/personal/__text/personal__text.css);
+@import url(../blocks/personal/__container/personal__container.css);
+@import url(../blocks/personal/__title/personal__title.css);
+@import url(../blocks/personal/__subtitle/personal__subtitle.css);
+@import url(../blocks/personal/__button/personal__button.css);
+@import url(../blocks/personal/__image/personal__image.css);
 
 /*products*/
 @import url(../blocks/products/products.css);

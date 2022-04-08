@@ -1,0 +1,11 @@
+.personal__subtitle {
+    max-width: 470px;
+    font-size: 20px;
+    line-height: 1.6;
+    font-weight: 400;
+    margin-top: 45px;
+}
+
+.personal__subtitle:last-of-type {
+    margin-top: 10px;
+}

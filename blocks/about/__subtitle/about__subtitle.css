@@ -1,3 +1,8 @@
 .about__subtitle {
-    font-size: 20px;
+    font-size: 22px;
+    line-height: 1.6;
+    font-weight: 400;
+    text-align: center;
+    margin: 0 auto 85px;
+    max-width: 1000px;
 }

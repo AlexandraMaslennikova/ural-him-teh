@@ -1,0 +1,10 @@
+.about__image {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.about__image:hover {
+    box-shadow: 3px;
+}

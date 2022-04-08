@@ -1,0 +1,6 @@
+.personal__image {
+    width: calc(50%);
+    height: 600px;
+    background-image: url(../../../images/personal.jpg);
+    background-size: cover;
+}
